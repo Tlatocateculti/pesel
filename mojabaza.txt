@@ -1,0 +1,3 @@
+Janina;Cichecka;kobieta;49050756486;07-05-1949
+Karolina;Zajdel;kobieta;99100334148;03-10-1999
+Jarosław;Rudlicki;mężczyzna;04321469973;14-12-2004
